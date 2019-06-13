@@ -38,7 +38,7 @@
   min-width: 160px;
   padding: 5px 0;
   margin: 2px 0 0; // override default ul
-  font-size: $font-size-base;
+  font-size: $dropdown-font-size;
   text-align: left; // Ensures proper alignment if parent has it changed (e.g., modal footer)
   list-style: none;
   background-color: $dropdown-bg;
